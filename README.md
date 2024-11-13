@@ -1,0 +1,1 @@
+# bash_script_permissions_fichiers
